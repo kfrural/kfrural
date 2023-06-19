@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kferreira_@outlook.com?subject=&body=)
 
 ![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kfrural&theme=dracula)](https://git.io/streak-stats)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
