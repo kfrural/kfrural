@@ -7,4 +7,5 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20797740/karla-c-ferreira)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kferreira_@outlook.com?subject=&body=)
 
-![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=radical)
+
+[![Karla Ferreira GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
