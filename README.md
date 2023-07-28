@@ -8,13 +8,18 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20797740/karla-c-ferreira)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kferreira_@outlook.com?subject=&body=)
 
-![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula)   
+
+![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kfrural&theme=dracula)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
 
 
+
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E37X3ocYZhL6h?si=31c6c4978f014c7e)
+
+
 
 
