@@ -11,14 +11,13 @@
 
 ![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kfrural&theme=dracula)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kfrural&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
 
 
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E37X3ocYZhL6h?si=31c6c4978f014c7e)
 
 
 
