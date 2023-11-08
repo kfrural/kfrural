@@ -17,7 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kfrural&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
