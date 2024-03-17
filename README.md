@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou a Karla Ferreira
+### Olá!👋 Eu sou a Karla Ferreira 👩🏻‍💻🤠
 [![](https://visitcount.itsvg.in/api?id=kfrural&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-ferreira-rural/)
