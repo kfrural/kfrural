@@ -6,8 +6,7 @@
 ![Avatar Karla Ferreira](img.png)
 
 ## Sobre Mim
-
-Desenvolvedora apaixonada por tecnologia e inovação. Com foco em desenvolvimento web e mobile, sempre buscando novas oportunidades para aprender e crescer.
+Estudante de Ciência da Computação e Engenharia de Software apaixonada por tecnologia e programação, especialmente pela área de automação e desenvolvimento de sistemas. Atualmente, estou focada em desenvolver minhas habilidades e conhecimentos para contribuir efetivamente para o setor de tecnologia da informação. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para desempenhar um papel ativo nessa transformação.
 
 ## Contato
 
