@@ -9,8 +9,7 @@
 Estudante de Ciência da Computação e Engenharia de Software apaixonada por tecnologia e programação, especialmente pela área de automação e desenvolvimento de sistemas. Atualmente, estou focada em desenvolver minhas habilidades e conhecimentos para contribuir efetivamente para o setor de tecnologia da informação. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para desempenhar um papel ativo nessa transformação.
 
 ## Portfólio
-Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio:
-![Portfólio](https://portfolio-kfrural.netlify.app/)
+Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: https://portfolio-kfrural.netlify.app/
 
 ## Contato
 
