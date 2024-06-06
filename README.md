@@ -23,12 +23,17 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 ## Habilidades
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula)
+<a href="https://github.com/kfrural">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kfrural&layout=compact&langs_count=8&card_width=320&theme=dracula" height="200" style="border: none;">
+</a>
 
 
 ## Estatísticas do GitHub
 
-![Karla Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula)
+<a href="https://github.com/kfrural">
+  <img src="https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula&rank_icon=github" height="200" style="border: none;">
+</a>
+  
 
 
 
