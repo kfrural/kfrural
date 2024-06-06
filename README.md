@@ -27,7 +27,6 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kfrural&layout=compact&langs_count=8&card_width=320&theme=dracula" height="200" style="border: none;">
 </a>
 
-
 ## Estatísticas do GitHub
 
 <a href="https://github.com/kfrural">
