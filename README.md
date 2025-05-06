@@ -3,7 +3,7 @@
 
 # Olá! 👋 Sou a Karla Ferreira 👩🏻‍💻🤠
 
-![Avatar Karla Ferreira](img.png)
+![Avatar Karla Ferreira](https://kfrural.netlify.app/static/media/avatar.d7b7569f316382ba0509.png)
 
 ## Sobre Mim
 Estudante de Ciência da Computação e Engenharia de Software apaixonada por tecnologia e programação, especialmente pela área de automação e desenvolvimento de sistemas. Atualmente, estou focada em desenvolver minhas habilidades e conhecimentos para contribuir efetivamente para o setor de tecnologia da informação. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para desempenhar um papel ativo nessa transformação.
