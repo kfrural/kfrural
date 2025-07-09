@@ -27,14 +27,17 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kfrural&layout=compact&langs_count=8&card_width=320&theme=dracula" height="200" style="border: none;">
 </a>
 
-## Estatísticas do GitHub
+<!--## Estatísticas do GitHub
 
 <a href="https://github.com/kfrural">
   <img src="https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula&rank_icon=github" height="200" style="border: none;">
-</a>
-<!--  
+</a> -->
+## Estatísticas do GitHub
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kfrural&theme=dracula" width="700" height="200" alt="Marcador 1">
--->
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kfrural&theme=dracula&utcOffset=8) -->
+
 
 
 
