@@ -39,9 +39,14 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kfrural&theme=dracula&utcOffset=8) -->
 
 
+<!--
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula" width="450" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&bg_color=dracula" width="400" height="200" />
+</p>
 
-
-
+![Snake animation](https://github.com/kfrural/kfrural/blob/output/github-contribution-grid-snake.svg)
+-->
 ---
 
 
