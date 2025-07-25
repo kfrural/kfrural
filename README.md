@@ -28,14 +28,15 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 </a>
 
 <!--## Estatísticas do GitHub
-
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kfrural&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
 <a href="https://github.com/kfrural">
   <img src="https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula&rank_icon=github" height="200" style="border: none;">
 </a> -->
-## Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kfrural&theme=dracula" width="700" height="200" alt="Marcador 1">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kfrural&theme=dracula" width="700" height="200" alt="Marcador 1"> -->
 
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kfrural&theme=dracula)](https://github.com/kfrural) 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kfrural&theme=dracula&utcOffset=8) -->
 
 
@@ -46,10 +47,44 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 </p>
 
 ![Snake animation](https://github.com/kfrural/kfrural/blob/output/github-contribution-grid-snake.svg)
--->
+
 ### 📈 GitHub Activity Graph:
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kfrural&theme=dracula)](https://github.com/kfrural)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kfrural&theme=dracula)](https://github.com/kfrural) 
+-->
+
+## Repositórios destaques do GitHub
+                                                                                    
+<p  align="center">
+<a href="https://github.com/kfrural/Projeto_gerenciaBov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=Projeto_gerenciaBov&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kfrural/leiteintel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=leiteintel&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kfrural/api-test-framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=api-test-framework&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kfrural/customer-churn-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=customer-churn-prediction&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kfrural/CyberThreatsMonitoringSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=CyberThreatsMonitoringSystem&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kfrural/dashboard_agro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=dashboard_agro&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+  <a href="https://github.com/kfrural/weather_etl_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=weather_etl_project&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+  <a href="https://github.com/kfrural/api_mercadoBov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kfrural&repo=api_mercadoBov&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+
+
+</p>
+                                                                                         
+
 ---
 
 
