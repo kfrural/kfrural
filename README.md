@@ -47,6 +47,9 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 
 ![Snake animation](https://github.com/kfrural/kfrural/blob/output/github-contribution-grid-snake.svg)
 -->
+### 📈 GitHub Activity Graph:
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kfrural&theme=dracula)](https://github.com/kfrural)
 ---
 
 
