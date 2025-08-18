@@ -1,6 +1,5 @@
 
 
-
 # Olá! 👋 Sou a Karla Ferreira 👩🏻‍💻🤠
 
 ![Avatar Karla Ferreira](https://kfrural.netlify.app/static/media/avatar.d7b7569f316382ba0509.png)
@@ -83,6 +82,10 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 
 
 </p>
+
+## Músicas que uso para programar
+
+![Músicas do momento](https://spotify-recently-played-readme.vercel.app/api?user=6nvn8ai1bn7cbpw1k67pumo5t)
                                                                                          
 
 ---
