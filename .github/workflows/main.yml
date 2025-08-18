@@ -1,4 +1,4 @@
-name: Star Chart
+name: Galaxy Visualization
 on:
   schedule:
     - cron: "*/12 * * * *"
@@ -8,11 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Generate Star Chart
+      - name: Generate Galaxy
         uses: Lowess/contributions-graph@v1.0
         with:
           github_user_name: kfrural
           output_path: dist/contributions.png
+          theme: "dark"
+          title: "Meu Universo de Contribuições"
       - name: Deploy to Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
