@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Generate Galaxy
-        uses: martinheinz/contributions-graph@v1.0
+        uses: cha87de/contributions-tree@v1.0
         with:
           github_user_name: kfrural
           output_path: dist/contributions.png
