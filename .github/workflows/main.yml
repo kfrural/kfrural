@@ -1,20 +1,22 @@
-name: Galaxy Visualization
+name: Generate Datas
 on:
   schedule:
     - cron: "*/12 * * * *"
   workflow_dispatch:
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate Galaxy
-        uses: martinheinz/contributions-graph@v1.0
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: kfrural
-          output_path: dist/contributions.png
-      - name: Deploy to Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          branch: output
-          folder: dist
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
