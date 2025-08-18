@@ -1,4 +1,4 @@
-name: Galaxy Visualization
+name: Flower Chart
 on:
   schedule:
     - cron: "*/12 * * * *"
@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Generate Galaxy
-        uses: cha87de/contributions-tree@v1.0
+      - name: Generate Flower
+        uses: martinheinz/contributions-flower@v1.0
         with:
           github_user_name: kfrural
           output_path: dist/contributions.png
