@@ -4,8 +4,15 @@
 
 ![Avatar Karla Ferreira](https://kfrural.netlify.app/static/media/avatar.d7b7569f316382ba0509.png)
 
+
 ## Sobre Mim
-Estudante de Ciência da Computação e Engenharia de Software apaixonada por tecnologia e programação, especialmente pela área de automação e desenvolvimento de sistemas. Atualmente, estou focada em desenvolver minhas habilidades e conhecimentos para contribuir efetivamente para o setor de tecnologia da informação. Acredito que a tecnologia tem o poder de transformar o mundo e estou ansiosa para desempenhar um papel ativo nessa transformação.
+
+Sou estudante de Ciência da Computação e Engenharia de Software, com grande interesse em **dados, análise e desenvolvimento de sistemas inteligentes**. Atualmente, tenho direcionado meus estudos e projetos para áreas como **engenharia e análise de dados, automação de processos e integração de tecnologias** que possam gerar insights relevantes para apoiar a **tomada de decisões estratégicas**.
+
+Tenho paixão por transformar informações em conhecimento prático e aplicável, explorando desde a **coleta e tratamento de dados** até a **construção de dashboards, APIs e modelos preditivos**. Acredito que o futuro da tecnologia está diretamente ligado ao poder dos dados e quero contribuir ativamente para soluções que unam **inovação, eficiência e impacto real**.
+
+---
+
 
 ## Portfólio
 Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: https://kfrural.netlify.app/
