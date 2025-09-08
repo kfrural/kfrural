@@ -96,9 +96,9 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
                                                                                          
 
 ---
-[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=kfrural&label=Views&color=grey&style=plastic&base=2800&abbreviated=true)](https://github.com/kfrural)
+[![Visualizações do Perfil](https://komarev.com/ghpvc/?username=kfrural&label=Views&color=grey&style=plastic&base=2700&abbreviated=true)](https://github.com/kfrural)
 
-<!--
+
 [![Visualizações do Perfil](https://komarev.com/ghpvc/?username=kfrural&label=Views&color=grey&style=plastic&abbreviated=true)](https://github.com/kfrural)
 -->
 
