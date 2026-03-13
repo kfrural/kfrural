@@ -62,7 +62,7 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kfrural&theme=dracula)](https://github.com/kfrural) 
 -->
-
+<!--
 ## Repositórios destaques do GitHub
                                                                                     
 <p  align="center">
@@ -93,6 +93,7 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 
 
 </p>
+-->
 
 ## Música para Programar 🎧
 
