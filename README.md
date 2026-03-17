@@ -1,5 +1,4 @@
 
-
 # Olá! 👋 Sou a Karla Ferreira 👩🏻‍💻🤠
 
 ![Avatar Karla Ferreira](https://kfrural.netlify.app/static/media/avatar.d7b7569f316382ba0509.png)
@@ -38,6 +37,16 @@ Você pode conhecer mais sobre meus projetos e habilidades em meu portfólio: ht
 </a>
 
 <!--## Estatísticas do GitHub
+
+<div style="display:flex; gap:8px; flex-wrap:wrap; margin-left: px">
+    <a href="https://github.com/kfrural/github-readme-stats">
+        <img src="https://acedev003-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula" alt="GitHub stats">
+    </a>
+    <a href="https://github.com/kfrural/github-readme-stats">
+         <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=kfrural&layout=compact&theme=dracula" alt="GitHub language stats"/>
+    </a>
+</div>
+
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kfrural&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&no-bg=true&no-frame=true" />
 <a href="https://github.com/kfrural">
   <img src="https://github-readme-stats.vercel.app/api?username=kfrural&show_icons=true&theme=dracula&rank_icon=github" height="200" style="border: none;">
