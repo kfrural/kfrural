@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Ciência da Computação e Engenharia de Software, com grande interesse em **dados, análise e desenvolvimento de sistemas inteligentes**. Atualmente, tenho direcionado meus estudos e projetos para áreas como **engenharia e análise de dados, automação de processos e integração de tecnologias** que possam gerar insights relevantes para apoiar a **tomada de decisões estratégicas**.
+Sou Engenheira de Software e estudante de Ciência da Computação, com grande interesse em **dados, análise e desenvolvimento de sistemas inteligentes**. Atualmente, tenho direcionado meus estudos e projetos para áreas como **engenharia e análise de dados, automação de processos e integração de tecnologias** que possam gerar insights relevantes para apoiar a **tomada de decisões estratégicas**.
 
 Tenho paixão por transformar informações em conhecimento prático e aplicável, explorando desde a **coleta e tratamento de dados** até a **construção de dashboards, APIs e modelos preditivos**. Acredito que o futuro da tecnologia está diretamente ligado ao poder dos dados e quero contribuir ativamente para soluções que unam **inovação, eficiência e impacto real**.
 
